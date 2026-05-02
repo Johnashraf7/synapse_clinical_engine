@@ -1,3 +1,12 @@
+---
+title: Synapse Engine
+emoji: ??
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+---
+
 # Synapse Clinical Engine 🧬
 
 [![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://synapse-clinical-engine.vercel.app/)
@@ -62,3 +71,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 This project is open-source and available under the MIT License.
+
