@@ -1,6 +1,6 @@
 ---
 title: Synapse Engine
-emoji: ??
+emoji: 🏥
 colorFrom: indigo
 colorTo: purple
 sdk: docker
